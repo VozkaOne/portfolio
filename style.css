@@ -1,0 +1,262 @@
+.desktop-7,
+.desktop-7 * {
+  box-sizing: border-box;
+}
+.desktop-7 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-5 {
+  background: #000000;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ai-generated-7845357-1280-1 {
+  width: 596px;
+  height: 647px;
+  position: absolute;
+  left: 88px;
+  top: 225px;
+  object-fit: cover;
+}
+.oip-1 {
+  width: 604px;
+  height: 647px;
+  position: absolute;
+  left: 749px;
+  top: 225px;
+  object-fit: cover;
+}
+.heading {
+  padding: 0px 0px 5px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 101px;
+  position: absolute;
+  left: 762px;
+  top: 124px;
+}
+.the-characters {
+  text-align: left;
+  font-family: var(--headings-h1-font-family, "SpaceGrotesk-Bold", sans-serif);
+  font-size: var(--headings-h1-font-size, 80px);
+  line-height: var(--headings-h1-line-height, 88px);
+  letter-spacing: var(--headings-h1-letter-spacing, -0.02em);
+  font-weight: var(--headings-h1-font-weight, 700);
+  position: relative;
+  width: 586px;
+  height: 101px;
+  -webkit-text-stroke: 1.5px #ffffff;
+}
+.the-characters-span {
+  font-family: var(--headings-h1-font-family, "SpaceGrotesk-Bold", sans-serif);
+  font-size: var(--headings-h1-font-size, 80px);
+  line-height: var(--headings-h1-line-height, 88px);
+  letter-spacing: var(--headings-h1-letter-spacing, -0.02em);
+  font-weight: var(--headings-h1-font-weight, 700);
+}
+.the-characters-span2 {
+  color: var(--global-white, #ffffff);
+  font-family: var(--headings-h1-font-family, "SpaceGrotesk-Bold", sans-serif);
+  font-size: var(--headings-h1-font-size, 80px);
+  line-height: var(--headings-h1-line-height, 88px);
+  letter-spacing: var(--headings-h1-letter-spacing, -0.02em);
+  font-weight: var(--headings-h1-font-weight, 700);
+}
+.heading2 {
+  padding: 0px 0px 5px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 101px;
+  position: absolute;
+  left: 152px;
+  top: 124px;
+}
+.the-animals {
+  text-align: left;
+  font-family: var(--headings-h1-font-family, "SpaceGrotesk-Bold", sans-serif);
+  font-size: var(--headings-h1-font-size, 80px);
+  line-height: var(--headings-h1-line-height, 88px);
+  letter-spacing: var(--headings-h1-letter-spacing, -0.02em);
+  font-weight: var(--headings-h1-font-weight, 700);
+  position: relative;
+  width: 586px;
+  height: 101px;
+  -webkit-text-stroke: 1.5px #ffffff;
+}
+.the-animals-span {
+  font-family: var(--headings-h1-font-family, "SpaceGrotesk-Bold", sans-serif);
+  font-size: var(--headings-h1-font-size, 80px);
+  line-height: var(--headings-h1-line-height, 88px);
+  letter-spacing: var(--headings-h1-letter-spacing, -0.02em);
+  font-weight: var(--headings-h1-font-weight, 700);
+}
+.the-animals-span2 {
+  color: var(--global-white, #ffffff);
+  font-family: var(--headings-h1-font-family, "SpaceGrotesk-Bold", sans-serif);
+  font-size: var(--headings-h1-font-size, 80px);
+  line-height: var(--headings-h1-line-height, 88px);
+  letter-spacing: var(--headings-h1-letter-spacing, -0.02em);
+  font-weight: var(--headings-h1-font-weight, 700);
+}
+.top-nav {
+  background: #000000;
+  padding: 30px 0px 30px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 1px;
+  left: -1px;
+  top: 0px;
+}
+.container-fluid {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.black-pig-productions {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 600;
+  position: relative;
+  width: 251px;
+  height: 25px;
+}
+.btn-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 83px;
+  height: 42px;
+  position: absolute;
+  left: 679px;
+  top: 921px;
+}
+.btn-buttons2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.btn-buttons3 {
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 9px 17px 9px 17px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 42px;
+  position: relative;
+}
+.primary {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 22.2px;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-1 {
+  width: 147px;
+  height: 83px;
+  position: absolute;
+  left: 1293px;
+  top: 2px;
+}
+.frame-4 {
+  background: #000000;
+  padding: 30px 15px 30px 15px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.hamburger-menu {
+  padding: 4px 0px 4px 0px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 18px;
+  position: relative;
+}
+.span {
+  background: #ffffff;
+  border-radius: 2px;
+  width: 10px;
+  height: 3px;
+  position: absolute;
+  left: 10px;
+  top: 3.5px;
+}
+.span2 {
+  background: #ffffff;
+  border-radius: 2px;
+  width: 10px;
+  height: 3px;
+  position: absolute;
+  left: 0px;
+  top: 10.5px;
+}
+.menu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 22.2px;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  position: relative;
+}
